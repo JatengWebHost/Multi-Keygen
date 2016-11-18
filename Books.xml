@@ -22,7 +22,7 @@
     </xs:element>
   </xs:schema>
    <book>
-      <Id>bk111999</Id>
+      <Id>bk111xxxx</Id>
       <author>Gambardella, Matthew</author>
       <title>XML Developer's Guide</title>
       <genre>Computer</genre>
